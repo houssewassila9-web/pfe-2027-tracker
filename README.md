@@ -21,3 +21,4 @@ Plateforme HTML locale gratuite : ouvrir `index.html`. Saisie d'offres, recherch
 
 ## Données du flux
 `data/opportunities.json` reste volontairement vide initialement pour éviter d'inventer ou de recopier des liens non vérifiés. L'utilisateur peut ajouter de vraies annonces via l'interface, ou alimenter le JSON à partir de ses propres recherches.
+
