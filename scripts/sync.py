@@ -36,7 +36,13 @@ def process(r):
       'status':'À examiner','source':'Arbeitnow (offre agrégée)','url':url,'added':posted}
 
 def main():
-    req=urllib.request.Request(ENDPOINT,headers={'User-Agent':'PFE2027Tracker/1.0 (personal educational project)','Accept':'application/json'})
+   req = urllib.request.Request(
+    ENDPOINT,
+    headers={
+        'User-Agent': 'Mozilla/5.0',
+        'Accept': 'application/json'
+    }
+)
     with urllib.request.urlopen(req,timeout=35) as resp:
         payload=json.load(resp)
     listings=payload.get('data')
