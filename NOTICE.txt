@@ -1,0 +1,11 @@
+PFE 2027 Tracker — installation rapide
+
+Dans GitHub, remplacer ces TROIS fichiers aux mêmes emplacements :
+  index.html
+  scripts/sync.py
+  .github/workflows/veille.yml
+Ne PAS remplacer data/opportunities.json si vous avez déjà des offres (historique).
+Le workflow ajoute les nouvelles offres via Arbeitnow ; les autres boutons ouvrent des recherches externes sans extraction automatisée.
+GitHub -> Actions -> Veille PFE 2027 -> Run workflow.
+Résultat vide possible : la source Arbeitnow est peu spécialisée en stages agroalimentaires français.
+Les statuts sauvegardés dans le navigateur sont préservés si vous gardez le même domaine GitHub Pages.
