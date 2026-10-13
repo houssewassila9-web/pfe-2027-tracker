@@ -34,7 +34,19 @@ $('pdf').onclick=()=>{document.body.classList.remove('print-cv','print-letter');
 $('txt').onclick=()=>{if(!lastLetter){alert('Génère d’abord une lettre.');return}let a=document.createElement('a');a.href=URL.createObjectURL(new Blob([lastLetter],{type:'text/plain;charset=utf-8'}));a.download='Lettre_PFE2027_'+($('company').value||'entreprise').replace(/[^\w-]/g,'_')+'.txt';a.click();setTimeout(()=>URL.revokeObjectURL(a.href),3000)};
 $('copy').onclick=()=>{if(lastLetter)navigator.clipboard.writeText(lastLetter).then(()=>alert('Lettre copiée')).catch(()=>alert('Copie indisponible ici; sélectionne la lettre.'))};
 $('profileSummary').innerHTML=`<p><b>${escapeHtml(PROFILE.candidate.full_name)}</b><br>${escapeHtml(PROFILE.candidate.institution)}<br><b>Disponible :</b> février 2027 · 5–6 mois</p><p class="muted">${mods.length} catégories d’enseignements complémentaires indiquées.</p>`;
-fillOffers();if(offers.length)choose(offers[0]);build();
+fillOffers();
+let selectedFromTracker=false;
+try {
+ const stored=JSON.parse(localStorage.getItem('PFE2027_CV_OFFER')||'null');
+ const requested=new URLSearchParams(window.location.search).get('offer_id');
+ if(stored && stored.company && stored.title && (!requested || String(stored.id)===requested)){
+   choose(stored);selectedFromTracker=true;
+ }
+} catch(err) { console.warn('Sélection CV indisponible',err); }
+if(!selectedFromTracker && offers.length)choose(offers[0]);
+build();
+if(selectedFromTracker)$('notes').insertAdjacentHTML('afterbegin','<b>Offre du Tracker chargée automatiquement.</b><br>');
+
 
 // Réception des offres sélectionnées depuis le Tracker sur la même origine.
 window.addEventListener('message', event=>{
