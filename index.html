@@ -21,21 +21,18 @@ $('emlFiles').onchange=async e=>{try{let items=[];for(const f of e.target.files)
 
 data=(JSON.parse(localStorage.getItem(STORE)||'[]')).map(sanitize);render();refresh();
 
-// Pont local entre les offres du Tracker et le générateur intégré.
-let pendingCvOffer=null;
-function sendCvOffer(offer){
- pendingCvOffer=offer;
- const frame=document.getElementById('cvFrame');
- if(frame && frame.contentWindow)frame.contentWindow.postMessage({type:'PFE2027_SELECT_OFFER',offer},location.origin);
- location.hash='atelier';
+// Transmission fiable : sauvegarde locale + page dédiée, sans dépendance au chargement d'un iframe.
+function openCvForOffer(offer){
+  try { localStorage.setItem('PFE2027_CV_OFFER',JSON.stringify(offer)); }
+  catch(err) { console.warn('Impossible de mémoriser la sélection',err); }
+  const url = new URL('generateur.html', window.location.href);
+  url.searchParams.set('offer_id',offer.id);
+  window.location.href=url.href;
 }
 document.addEventListener('click',e=>{
  const b=e.target.closest('[data-cv]');
  if(!b)return;
  const offer=data.find(o=>o.id===b.getAttribute('data-cv'));
- if(offer)sendCvOffer(offer);
-});
-document.getElementById('cvFrame').addEventListener('load',()=>{
- if(pendingCvOffer)sendCvOffer(pendingCvOffer);
+ if(offer)openCvForOffer(offer);
 });
 </script></body></html>
