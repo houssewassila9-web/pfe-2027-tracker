@@ -1,36 +1,17 @@
+name: Veille PFE 2027 - ancien collecteur suspendu
 
-name: Veille PFE 2027
-
+# La recherche quotidienne est désormais effectuée par la tâche ChatGPT.
+# Ce workflow est conservé uniquement pour consultation et déclenchement manuel.
+# Il n'exécute plus l'ancien collecteur Arbeitnow, qui renvoyait HTTP 400.
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 7 * * *'
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  recherche-stages:
+  information:
     runs-on: ubuntu-latest
     steps:
-      - name: Recuperer le depot
-        uses: actions/checkout@v4
-
-      - name: Installer Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Rechercher les offres PFE
-        run: python scripts/sync.py
-
-      - name: Enregistrer les nouvelles offres
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/opportunities.json
-          if ! git diff --cached --quiet; then
-            git commit -m "Actualisation des offres PFE"
-            git push
-          fi
-          
+      - name: Source des opportunites
+        run: echo "Les offres PFE sont synchronisees depuis ChatGPT via le connecteur GitHub."
