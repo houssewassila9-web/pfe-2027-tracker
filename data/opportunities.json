@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T12:59:41.841Z",
+  "updated_at": "2026-10-15T09:07:45Z",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -1024,6 +1024,25 @@
       "source": "Site carrières officiel",
       "url": "https://panzani.layan.eu/en/offer-stagiaire-assistant-e-chef-fe-de-produit-f-h-a57309",
       "added": "2026-10-14"
+    },
+    {
+      "id": "chatgpt-20261015-001",
+      "company": "Lactalis",
+      "title": "Stage Ingénieure Qualité — KPI et amélioration continue",
+      "location": "Vallet (44)",
+      "missions": "Suivi qualité, tableau de bord Power BI, indicateurs, non-conformités et actions correctives.",
+      "skills": "Bac+4/5 agroalimentaire ou QHSE, Excel et PowerPoint.",
+      "start": "Février / mars 2027",
+      "duration": "6 mois",
+      "pay": "1 200–1 400 €/mois",
+      "priority": "P1",
+      "international": "Convention internationale et éligibilité non confirmées",
+      "availability": "Annonce consultable le 15/10/2026 ; place disponible non garantie",
+      "status": "À examiner",
+      "source": "Lactalis — site officiel",
+      "url": "https://jobs.lactalisexperience.fr/job/Vallet-Stagiaire-Ing%C3%A9nieur-Qualit%C3%A9-%28HF%29-6-mois-Vallet-%2844%29/1441359333/",
+      "added": "2026-10-15",
+      "notes": "Offre distincte du poste Vallet 1435592433 : missions Power BI et KPI."
     }
   ]
 }
