@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19",
+  "updated_at": "2026-10-20",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -2271,6 +2271,63 @@
       "source": "Annonce en ligne (recherche du 19/10/2026)",
       "url": "https://recrutement.fleurymichon.fr/o/stage-ingenieur-rd-fh-fevrier-2027",
       "added": "2026-10-19"
+    },
+    {
+      "start": "Février 2027 souhaité",
+      "duration": "5–6 mois souhaités",
+      "pay": "À confirmer",
+      "international": "Accueil étudiante marocaine, convention IAV Hassan II, visa et rémunération à confirmer",
+      "availability": "Candidature spontanée — aucun stage PFE ouvert confirmé",
+      "status": "À prospecter",
+      "added": "2026-10-20",
+      "source": "Entreprise ciblée lors des démarches de candidature spontanée",
+      "id": "chatgpt-20261020-126",
+      "company": "Tipiak",
+      "title": "Candidature spontanée — Stage PFE R&D / formulation / qualité",
+      "location": "France — site à déterminer",
+      "missions": "Développement produit, formulation, qualité et sécurité alimentaire selon besoins des équipes",
+      "skills": "Formulation, projet ATA haricots blancs, qualité CIBEL, HACCP",
+      "priority": "P1",
+      "url": "https://carrieres.tipiak.fr/fr",
+      "contact": "Anthony Perrier — responsable recrutement (adresse nominative non vérifiée); contact général contact@tipiak.fr"
+    },
+    {
+      "start": "Février 2027 souhaité",
+      "duration": "5–6 mois souhaités",
+      "pay": "À confirmer",
+      "international": "Accueil étudiante marocaine, convention IAV Hassan II, visa et rémunération à confirmer",
+      "availability": "Candidature spontanée — aucun stage PFE ouvert confirmé",
+      "status": "À prospecter",
+      "added": "2026-10-20",
+      "source": "Entreprise ciblée lors des démarches de candidature spontanée",
+      "id": "chatgpt-20261020-127",
+      "company": "NutriDry / Fruit Ride",
+      "title": "Candidature spontanée — Stage PFE R&D snacks fruitiers et procédés",
+      "location": "France — site à déterminer",
+      "missions": "Formulation de snacks fruitiers, transformation, déshydratation et caractérisation produit (pistes de mission)",
+      "skills": "Formulation, évaluation sensorielle et nutritionnelle, procédés alimentaires",
+      "priority": "P1",
+      "url": "https://nutridry.com/nous-rejoindre/",
+      "contact": "Contact général contact@nutridry.com; Cédric Guillemot, fondateur historique Fruit Ride (non recruteur actuel confirmé)"
+    },
+    {
+      "start": "Février 2027 souhaité",
+      "duration": "5–6 mois souhaités",
+      "pay": "À confirmer",
+      "international": "Accueil étudiante marocaine, convention IAV Hassan II, visa et rémunération à confirmer",
+      "availability": "Candidature spontanée — aucun stage PFE ouvert confirmé",
+      "status": "À prospecter",
+      "added": "2026-10-20",
+      "source": "Entreprise ciblée lors des démarches de candidature spontanée",
+      "id": "chatgpt-20261020-128",
+      "company": "Granaline",
+      "title": "Candidature spontanée — Stage PFE R&D formulation alimentaire",
+      "location": "Belgique — localisation de stage à confirmer",
+      "missions": "Formulation et développement de produits alimentaires fonctionnels à base d'ingrédients naturels (pistes de mission)",
+      "skills": "Développement de produits, ingrédients végétaux, nutrition, analyse sensorielle",
+      "priority": "P1",
+      "url": "https://www.granaline-bionutrition.com/",
+      "contact": "Fouzia Oukacha — foukacha@granaline.bio (coordonnée à reconfirmer); info@granaline.be"
     }
   ]
 }
