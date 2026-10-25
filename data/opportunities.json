@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24",
+  "updated_at": "2026-10-25",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -2760,6 +2760,60 @@
       "source": "Indeed — offre Biochamps/Morice (réf. 0ce3ab04392f3ed1), description transmise dans la conversation",
       "url": "https://fr.indeed.com/viewjob?jk=0ce3ab04392f3ed1",
       "added": "2026-10-24"
+    },
+    {
+      "id": "chatgpt-20261025-inrae-ot30760",
+      "company": "INRAE — UMR PAM (équipe AFIM)",
+      "title": "Stage M2 — Fibres alimentaires et dynamique microbienne dans les matrices laitières (OT-30760)",
+      "location": "Poligny (39), France — déplacements à Dijon",
+      "missions": "Étudier l'effet des fibres solubles et insolubles issues de coproduits de vinification sur les ferments lactiques et la coagulation du lait; bibliographie; sélection et caractérisation de bactéries lactiques; cultures pures et co-cultures; suivi expérimental et rapport scientifique.",
+      "skills": "Master 2 / ingénieure Bac+5; microbiologie alimentaire, cultures bactériennes, intérêt pour les produits laitiers, analyses chimiques appréciées; rigueur et autonomie",
+      "start": "01/02/2027",
+      "duration": "6 mois",
+      "pay": "4,50 €/heure (annonce officielle)",
+      "priority": "P1",
+      "international": "Non confirmée — convention marocaine, accueil hors UE et visa à vérifier auprès d'INRAE",
+      "availability": "Annonce officielle accessible le 25/10/2026; date limite affichée 15/12/2026; recrutement/place encore disponible à confirmer",
+      "status": "À examiner",
+      "source": "INRAE Jobs — annonce officielle OT-30760",
+      "url": "https://jobs.inrae.fr/ot-30760",
+      "added": "2026-10-25"
+    },
+    {
+      "id": "chatgpt-20261025-danone-28698",
+      "company": "Danone",
+      "title": "Stage Ingénieur Qualité — FSSC 22000, audits et conformité en usine laitière (réf. 28698)",
+      "location": "Saint-Just-Chaleyssin (38), France",
+      "missions": "Optimiser le système de management de la qualité et la maîtrise documentaire; réduire les non-conformités; préparer les audits laboratoire et FSSC 22000; contrôles organoleptiques et qualité des yaourts et desserts; audits terrain et sensibilisation des équipes.",
+      "skills": "Bac+4/5 ingénieur ou université; première expérience industrielle, qualité et sécurité des aliments, audits, rigueur, autonomie, bon anglais",
+      "start": "Février 2027",
+      "duration": "6 mois",
+      "pay": "1 500 € brut/mois pour Bac+5 (1 300 € pour Bac+4/césure)",
+      "priority": "P1",
+      "international": "Non confirmée — convention marocaine, accueil hors UE et visa à vérifier auprès de Danone",
+      "availability": "Annonce officielle publiée le 21/10/2026, accessible le 25/10/2026; candidature en ligne, place réellement disponible à confirmer",
+      "status": "À examiner",
+      "source": "Danone Careers — portail officiel, réf. 28698",
+      "url": "https://careers.danone.com/fr-global/jobs/stage-ingenieur-qualite-fevrier-2027-h-f-28698-fr-fr.html",
+      "added": "2026-10-25"
+    },
+    {
+      "id": "chatgpt-20261025-cooperl-84592556",
+      "company": "Cooperl",
+      "title": "Stage R&D Ingrédients — Méthodes analytiques pour la qualification d'hydrolysats porcins",
+      "location": "Lamballe-Armor (22), France",
+      "missions": "Obtenir des hydrolysats de matrices porcines par hydrolyse enzymatique; caractériser matières sèches, protéines, lipides et cendres; développer des protocoles de chromatographie d'exclusion stérique et électrophorèse pour caractériser les peptides; évaluer des propriétés antioxydantes et anti-inflammatoires par UV-visible.",
+      "skills": "Bac+5 biochimie/agroalimentaire ou chimie analytique; chromatographie, électrophorèse, UV-visible, analyse expérimentale; permis B et moyen de transport indispensables",
+      "start": "Janvier ou février 2027",
+      "duration": "5 à 6 mois",
+      "pay": "Non précisée",
+      "priority": "P2",
+      "international": "Non confirmée — convention marocaine, accueil hors UE et visa à vérifier auprès de Cooperl",
+      "availability": "Annonce recruteur sur Hellowork consultable le 25/10/2026; place réellement disponible à confirmer",
+      "status": "À examiner",
+      "source": "Hellowork — annonce Cooperl réf. 84592556",
+      "url": "https://www.hellowork.com/fr-fr/emplois/84592556.html",
+      "added": "2026-10-25"
     }
   ]
 }
