@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02",
+  "updated_at": "2026-11-04",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -3804,6 +3804,60 @@
       "url": "https://jobs.lactalisexperience.fr/job/FRANGY-Stagiaire-Ing%C3%A9nieur-Qualit%C3%A9-%28HF%29-6-mois-Frangy-%2874%29/1445723333/",
       "status": "À examiner",
       "added": "2026-11-02"
+    },
+    {
+      "id": "chatgpt-20261104-1",
+      "company": "Danone",
+      "title": "Stage Simplification Packaging & Développement Packaging — R&I",
+      "location": "Gif-sur-Yvette (91), France",
+      "missions": "Analyse et harmonisation des références packaging, développement d'emballages, coordination fournisseurs et équipes R&I, essais sur ligne industrielle et tests de transport.",
+      "skills": "Bac+4/5 ingénierie ou spécialité packaging, Excel, anglais, analyse de données, gestion de projet.",
+      "start": "Février 2027 selon titre et descriptif ; rubrique profil indique février 2026 (coquille à confirmer)",
+      "duration": "6 mois",
+      "pay": "1 500 € brut/mois (Bac+5)",
+      "priority": "P1",
+      "international": "Non confirmé — convention internationale IAV Hassan II, accueil hors UE et formalités de séjour à vérifier",
+      "availability": "Offre officielle publiée le 03/11/2026, page de candidature accessible le 04/11/2026 ; place non garantie ; incohérence de date dans l'annonce",
+      "source": "Site officiel carrières Danone",
+      "url": "https://careers.danone.com/fr-global/jobs/stage-simplification-packaging-developpement-packaging-fevrier-2027-h-f-29050-fr-fr.html",
+      "status": "À examiner",
+      "added": "2026-11-04"
+    },
+    {
+      "id": "chatgpt-20261104-2",
+      "company": "Danone",
+      "title": "Stage Coordination de projets d'innovation — Danone Afrique",
+      "location": "Limonest (69), France",
+      "missions": "Pilotage transversal de projets d'innovation, rénovation de recettes, packaging et optimisation des coûts pour les marchés africains ; suivi jalons, risques et reporting.",
+      "skills": "Bac+4/5 ingénieur ou université, coordination de projets, communication, organisation, suivi d'indicateurs.",
+      "start": "Mars 2027",
+      "duration": "6 mois",
+      "pay": "1 500 € brut/mois (Bac+5)",
+      "priority": "P1",
+      "international": "Non confirmé — convention internationale IAV Hassan II, accueil hors UE et formalités de séjour à vérifier",
+      "availability": "Offre officielle publiée le 16/10/2026, candidature accessible le 04/11/2026 ; place non garantie",
+      "source": "Site officiel carrières Danone",
+      "url": "https://careers.danone.com/fr/fr/jobs/stage-coordination-de-projet-mars-2027-h-f-28675-fr-fr.html",
+      "status": "À examiner",
+      "added": "2026-11-04"
+    },
+    {
+      "id": "chatgpt-20261104-3",
+      "company": "Danone",
+      "title": "Stage Ingénieur Optimisation Produits et Procédés",
+      "location": "Ferrières-en-Bray (76), France",
+      "missions": "Étude des temps de refroidissement après modifications de tunnels, protocoles de mesures, essais, analyse des données et optimisation des paramètres produits/procédés.",
+      "skills": "Formation ingénieur, procédés industriels alimentaires, expérimentation, analyse de données et restitution des résultats.",
+      "start": "Janvier 2027 selon descriptif malgré titre Mars 2027 — date à clarifier",
+      "duration": "6 mois",
+      "pay": "1 500 € brut/mois (Bac+5)",
+      "priority": "P2",
+      "international": "Non confirmé — convention internationale IAV Hassan II, accueil hors UE et formalités de séjour à vérifier",
+      "availability": "Offre officielle publiée le 22/10/2026, candidature accessible le 04/11/2026 ; place non garantie ; dates contradictoires",
+      "source": "Site officiel carrières Danone",
+      "url": "https://careers.danone.com/fr-global/jobs/stage-ingenieur-optimisation-produits-mars-2027-h-f-28741-fr-fr.html",
+      "status": "À examiner",
+      "added": "2026-11-04"
     }
   ]
 }
