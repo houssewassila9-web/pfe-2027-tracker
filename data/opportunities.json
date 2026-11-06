@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04",
+  "updated_at": "2026-11-06",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -3858,6 +3858,24 @@
       "url": "https://careers.danone.com/fr-global/jobs/stage-ingenieur-optimisation-produits-mars-2027-h-f-28741-fr-fr.html",
       "status": "À examiner",
       "added": "2026-11-04"
+    },
+    {
+      "id": "chatgpt-20261106-danone-rd-test-validation-packaging",
+      "company": "Danone",
+      "title": "Stage Ingénieur(e) R&D Test & Validation Packaging",
+      "location": "Évian-les-Bains (74), France",
+      "missions": "Développement et validation de méthodes d'essais en laboratoire sur l'étanchéité et la performance des emballages et systèmes de fermeture ; analyse de données expérimentales ; contribution à la validation de simulations numériques ; harmonisation de protocoles.",
+      "skills": "Bac+5 ingénieur ou Master 2 ; mécanique, matériaux, plasturgie, packaging ou génie des procédés ; expérimentation et analyse de résultats.",
+      "start": "Février 2027",
+      "duration": "6 mois",
+      "pay": "1 500 € brut/mois (Bac+5)",
+      "priority": "P2",
+      "international": "À confirmer — accueil d'une étudiante marocaine hors UE et convention internationale non précisés",
+      "availability": "Annonce officielle publiée le 05/11/2026, consultable le 06/11/2026 ; place effectivement disponible à confirmer",
+      "status": "À examiner",
+      "source": "Site carrières officiel Danone",
+      "url": "https://careers.danone.com/fr-global/jobs/stage-ingenieur-e-r-d-test-validation-packaging-fevrier-2027-h-f-29130-fr-fr.html",
+      "added": "2026-11-06"
     }
   ]
 }
