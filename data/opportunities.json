@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06",
+  "updated_at": "2026-11-08",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -3876,6 +3876,60 @@
       "source": "Site carrières officiel Danone",
       "url": "https://careers.danone.com/fr-global/jobs/stage-ingenieur-e-r-d-test-validation-packaging-fevrier-2027-h-f-29130-fr-fr.html",
       "added": "2026-11-06"
+    },
+    {
+      "id": "chatgpt-20261108-1",
+      "company": "LDC / Marie Surgelés",
+      "title": "Stagiaire Production — optimisation du TRS",
+      "location": "Airvault (79)",
+      "missions": "Analyse des arrêts de ligne, amélioration du rendement synthétique et suivi d'actions terrain.",
+      "skills": "Bac+3 à Bac+5 IAA, procédés, Excel",
+      "start": "Février 2027",
+      "duration": "6 mois",
+      "priority": "P1",
+      "availability": "Annonce officielle accessible avec bouton Postuler le 08/11/2026 ; date limite non précisée",
+      "url": "https://recrutement.ldc.fr/fr/annonce/4169289-stagiaire-production-hf-79600-airvault",
+      "pay": "Non précisée",
+      "international": "À confirmer — convention internationale et éligibilité non précisées",
+      "status": "À examiner",
+      "source": "Site officiel LDC",
+      "added": "2026-11-08"
+    },
+    {
+      "id": "chatgpt-20261108-2",
+      "company": "LDC / Arrivé Maître Coq",
+      "title": "Stagiaire Ingénieur Production — amélioration continue",
+      "location": "Saint-Fulgent (85)",
+      "missions": "Optimisation des procédés, productivité et gestion de projets transversaux.",
+      "skills": "Ingénierie agroalimentaire, gestion de production",
+      "start": "Janvier 2027 — février à négocier",
+      "duration": "3 à 6 mois",
+      "priority": "P2",
+      "availability": "Annonce officielle accessible avec bouton Postuler le 08/11/2026 ; date limite non précisée",
+      "url": "https://recrutement.ldc.fr/fr/annonce/4570553-stagiaire-ingenieur-production-hf-85250-saint-fulgent",
+      "pay": "Non précisée",
+      "international": "À confirmer — convention internationale et éligibilité non précisées",
+      "status": "À examiner",
+      "source": "Site officiel LDC",
+      "added": "2026-11-08"
+    },
+    {
+      "id": "chatgpt-20261108-3",
+      "company": "LDC Bourgogne",
+      "title": "Stage Ingénieur Production — optimisation de ligne",
+      "location": "Branges (71)",
+      "missions": "Analyse des flux et performances, amélioration des procédés, rédaction de procédures et formation des opérateurs.",
+      "skills": "Ingénieur ou master, production, amélioration continue",
+      "start": "Non précisé — février 2027 à confirmer",
+      "duration": "3 à 6 mois",
+      "priority": "P2",
+      "availability": "Annonce officielle accessible avec bouton Postuler le 08/11/2026 ; date limite non précisée",
+      "url": "https://recrutement.ldc.fr/fr/annonce/4618721-stage-ingenieur-production-hf-71500-branges",
+      "pay": "Non précisée",
+      "international": "À confirmer — convention internationale et éligibilité non précisées",
+      "status": "À examiner",
+      "source": "Site officiel LDC",
+      "added": "2026-11-08"
     }
   ]
 }
