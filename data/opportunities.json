@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08",
+  "updated_at": "2026-11-10",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -3930,6 +3930,24 @@
       "status": "À examiner",
       "source": "Site officiel LDC",
       "added": "2026-11-08"
+    },
+    {
+      "id": "chatgpt-20261110-danone-packaging-technologies-29138",
+      "company": "Danone",
+      "title": "Stage R&I Packaging Technologies — bouteilles PET et bouchons HDPE",
+      "location": "Évian-les-Bains (74)",
+      "missions": "Veille innovations packaging, étude des performances mécaniques des bouteilles PET, essais de caractérisation, essais pilotes sur bouchons HDPE, analyse des tests consommateurs et validation technique.",
+      "skills": "Bac+5 ingénierie ; essais et caractérisation ; polymères PET/HDPE ; analyse de résultats ; français courant, anglais B2. Spécialisation packaging plus adaptée que formulation alimentaire.",
+      "start": "Février 2027",
+      "duration": "6 mois",
+      "pay": "1 500 € brut/mois (Bac+5)",
+      "priority": "P2",
+      "international": "À confirmer — éligibilité et convention pour étudiante étrangère non précisées",
+      "availability": "Annonce officielle publiée le 05/11/2026 et accessible le 10/11/2026 ; candidature à vérifier au moment du dépôt",
+      "status": "À examiner",
+      "source": "Site officiel carrières Danone",
+      "url": "https://careers.danone.com/fr-global/jobs/stage-r-i-packaging-technologies-fevrier-2027-h-f-29138-fr-fr.html",
+      "added": "2026-11-10"
     }
   ]
 }
