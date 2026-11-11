@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10",
+  "updated_at": "2026-11-11",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -3948,6 +3948,24 @@
       "source": "Site officiel carrières Danone",
       "url": "https://careers.danone.com/fr-global/jobs/stage-r-i-packaging-technologies-fevrier-2027-h-f-29138-fr-fr.html",
       "added": "2026-11-10"
+    },
+    {
+      "id": "chatgpt-20261111-ldc-marie-ifs8-4463241",
+      "company": "LDC / Marie",
+      "title": "Stage qualité — Ancrage de l'IFS version 8",
+      "location": "Sablé-sur-Sarthe (72)",
+      "missions": "Participation à la mise en place et à l'ancrage de la version 8 du référentiel IFS dans le service qualité d'un site de plats cuisinés.",
+      "skills": "École d'ingénieur agroalimentaire Bac+5 ; sécurité alimentaire ; analyse, méthode et organisation.",
+      "start": "Non précisé — disponibilité pour février 2027 à confirmer",
+      "duration": "6 mois",
+      "pay": "Non précisée",
+      "priority": "P2",
+      "international": "À confirmer — éligibilité des étudiantes étrangères et convention internationale non précisées",
+      "availability": "Annonce accessible sur le site officiel LDC le 11/11/2026 ; candidature et date de début à reconfirmer auprès du recruteur",
+      "status": "À examiner",
+      "source": "Site officiel recrutement LDC",
+      "url": "https://recrutement.ldc.fr/fr/annonce/4463241-stage-qualite-ancrage-de-lifs-version-8-hf-72300-sable-sur-sarthe",
+      "added": "2026-11-11"
     }
   ]
 }
