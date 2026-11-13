@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11",
+  "updated_at": "2026-11-13",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -3966,6 +3966,42 @@
       "source": "Site officiel recrutement LDC",
       "url": "https://recrutement.ldc.fr/fr/annonce/4463241-stage-qualite-ancrage-de-lifs-version-8-hf-72300-sable-sur-sarthe",
       "added": "2026-11-11"
+    },
+    {
+      "id": "chatgpt-20261113-danone-bilan-laitier-29193",
+      "company": "Danone",
+      "title": "Stage Performance & Amélioration Continue Bilan Laitier",
+      "location": "Rueil-Malmaison (92)",
+      "missions": "Création et suivi de KPI, Power BI, fiabilisation des données, optimisation des processus et modes opératoires pour les approvisionnements laitiers.",
+      "skills": "Bac+4/5 ingénieur ou université, Excel, Power BI, analyse de données et performance.",
+      "start": "Février 2027",
+      "duration": "6 mois",
+      "pay": "1 500 € brut/mois (Bac+5)",
+      "priority": "P2",
+      "international": "À confirmer — convention internationale et éligibilité des étudiantes étrangères non précisées",
+      "availability": "Annonce officielle publiée le 10/11/2026, accessible avec lien de candidature le 13/11/2026",
+      "status": "À examiner",
+      "source": "Site officiel carrières Danone",
+      "url": "https://careers.danone.com/fr-global/jobs/stage-performance-amelioration-continue-bilan-laitier-fevrier-2027-h-f-29193-fr-fr.html",
+      "added": "2026-11-13"
+    },
+    {
+      "id": "chatgpt-20261113-danone-performance-industrielle-28684",
+      "company": "Danone",
+      "title": "Stage Performance industrielle — optimisation des consommations d'eau",
+      "location": "Steenvoorde (59)",
+      "missions": "Analyse des consommations d'eau des équipements, optimisation des paramètres de production, tableaux de bord et amélioration continue.",
+      "skills": "Bac+4/5 agroalimentaire, génie industriel ou amélioration continue ; Excel et analyse de données.",
+      "start": "1er trimestre 2027 (intitulé : février)",
+      "duration": "6 mois",
+      "pay": "Non précisée",
+      "priority": "P2",
+      "international": "À confirmer — convention internationale et éligibilité des étudiantes étrangères non précisées",
+      "availability": "Annonce officielle publiée le 10/11/2026, accessible avec lien de candidature le 13/11/2026",
+      "status": "À examiner",
+      "source": "Site officiel carrières Danone",
+      "url": "https://careers.danone.com/fr-global/jobs/stage-performance-industrielle-fevrier-2027-h-f-28684-fr-fr.html",
+      "added": "2026-11-13"
     }
   ]
 }
