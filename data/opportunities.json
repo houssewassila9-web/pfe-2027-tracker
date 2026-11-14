@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13",
+  "updated_at": "2026-11-14",
   "offers": [
     {
       "id": "chatgpt-20261012-1",
@@ -4002,6 +4002,24 @@
       "source": "Site officiel carrières Danone",
       "url": "https://careers.danone.com/fr-global/jobs/stage-performance-industrielle-fevrier-2027-h-f-28684-fr-fr.html",
       "added": "2026-11-13"
+    },
+    {
+      "id": "chatgpt-20261114-danone-activia-europe-ri-product-engineer",
+      "company": "Danone",
+      "title": "Stage Activia Europe R&I Product Engineer",
+      "location": "Gif-sur-Yvette (91), France",
+      "missions": "Analyse des paramètres recette et procédé influençant la qualité des yaourts Activia ; collecte et traitement de données d'usine ; plans d'expériences pilotes ; suivi analytique et sensoriel des produits.",
+      "skills": "Bac+4/5 école d'ingénieur ou université ; rigueur, autonomie, Excel, traitement de données et expérimentation.",
+      "start": "Mars 2027",
+      "duration": "6 mois",
+      "pay": "1 500 € brut/mois (Bac+5)",
+      "priority": "P1",
+      "international": "À confirmer — accueil d'une étudiante étrangère hors UE et convention internationale non précisés",
+      "availability": "Annonce officielle publiée le 13/11/2026, consultable avec candidature le 14/11/2026 ; place effectivement disponible à confirmer",
+      "status": "À examiner",
+      "source": "Site officiel carrières Danone",
+      "url": "https://careers.danone.com/en-global/jobs/stage-activia-europe-r-i-produt-engineer-mars-h-f-29321-fr-fr.html",
+      "added": "2026-11-14"
     }
   ]
 }
